@@ -1,0 +1,18 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.navbar {
+	background-color: black !important;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+#logo {
+	float: left;
+	font-size: 1.7em;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-weight: bold;
+}
